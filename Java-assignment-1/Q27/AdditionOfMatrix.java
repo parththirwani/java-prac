@@ -1,4 +1,4 @@
-package Q27;
+
 import java.util.Scanner;
 
 public class AdditionOfMatrix {
