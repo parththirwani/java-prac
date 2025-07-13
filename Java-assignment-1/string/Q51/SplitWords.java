@@ -1,3 +1,4 @@
+package string.Q51;
 import java.util.Scanner;
 
 public class SplitWords {
